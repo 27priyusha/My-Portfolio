@@ -79,7 +79,7 @@ export const Projects = () => {
           whileHover={{ y: -10, transition: { duration: 0.2 } }}
         >
           <a
-            href="https://github.com/27priyusha/my-weather-app"
+            href="https://my-weather-app-tawny-six.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
